@@ -1,4 +1,4 @@
-# Ford Car Price Prediction Using Linear Regression
+# Ford Cars Price Prediction Using Linear Regression
 
 ## Dataset
 

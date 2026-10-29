@@ -1,4 +1,4 @@
-# Ford Card Price Prediction Using Linear Regression
+# Ford Car Price Prediction Using Linear Regression
 
 ## Dataset
 
